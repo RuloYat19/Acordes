@@ -25,19 +25,19 @@ Su nombre es Jesús.
 = Una mirada de fe (D)
 
 Estrofa:
-         D
+         D               D   
 //Una mirada de fe, una mirada de fe,
            A                   D
 Es la que puede salvar al pecador//
 
 Coro:
-         G
+         G                 G 
 Y si tu vienes a Cristo Jesús
               D
 El te perdonara
                       A
 Porque una mirada de fe
-                               D
+            A                  D
 Es la que puede salvar al pecador
 
 -----------------------------------------
@@ -427,3 +427,28 @@ Fue allí por fe do vi a Jesús,
     Em       A            D
 Y siempre feliz con el seré.
 
+-----------------------------------------
+
+Hoy soy feliz, muy feliz (C)=>(D)
+
+Estrofa:
+           D                A
+Confieso ahora de mi vida ciega,
+         G               A        D
+Donde vivía sin fe, sin luz, ni amor;
+            D                   A
+Ni una esperanza mi corazón hallaba,
+        G             A      D
+Ni medicina para mi cruel dolor
+
+Coro:
+            A              D
+¡Hoy soy feliz, sí, muy feliz!
+           G            A           D
+Al ser testigo por la gracia soy feliz,
+      A                       D
+He pasado de muerte a eterna vida,
+       G        A             D
+A una vida sin fin de gozo y paz
+
+-----------------------------------------

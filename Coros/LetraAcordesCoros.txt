@@ -7,7 +7,7 @@ Yo tengo un amigo que me ama
 Me ama, me ama,
     D                   Bm7
 Yo tengo un amigo que me ama
-    A           D
+    G     A     D
 Su nombre es Jesús
 
 Coro:
@@ -17,7 +17,7 @@ Que me ama, que me ama
 Que me ama, si, con tierno amor
        G           D
 Que me ama, que me ama,
-    A           D
+    G*    A*    D
 Su nombre es Jesús.
 
 -----------------------------------------
@@ -37,7 +37,7 @@ Y si tu vienes a Cristo Jesús
 El te perdonara
                       A
 Porque una mirada de fe
-            A                  D
+            G       A          D
 Es la que puede salvar al pecador
 
 -----------------------------------------
@@ -46,11 +46,11 @@ Es la que puede salvar al pecador
 
          D                     A
 ///Solo Dios hace al hombre feliz
-                            D
+      A                     D
 Solo Dios hace al hombre feliz
             G             D
 La vida es nada todo se acaba
-      A                     D
+      A            G        D
 Solo Dios hace al hombre feliz///
 
 -----------------------------------------
@@ -58,15 +58,15 @@ Solo Dios hace al hombre feliz///
 = Alabaré (G)=>(D)
 
 Coro:
-        D
+        D        D
 //Alabaré, alabaré,
   A             D
 Alabaré a mi Señor//
 
 Estrofa:
- D
+ D                  D 
 Juan vio el número de los redimidos
-                       A
+   D                    A
 Y todos alababan al Señor
 G        A     G       A
 Unos cantaban, otros oraban

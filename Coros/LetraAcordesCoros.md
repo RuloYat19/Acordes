@@ -140,14 +140,22 @@ mas con su Santo Espíritu
 
 ### ✓ Alabad a Jehová (G)=>(D)
 ```text
-    D         Bm           G                       A
-Alabad a Jehová, Naciones todas, Pueblos todos alabadle,
-        Em         A            G      A        D
-Porque ha engrandecido Sobre nosotros su misericordia;
-         D          Bm         A                D
-Y la verdad de Jehová Es para siempre aleluya amén,
-         D          Bm         G          A     D
-Y la verdad de Jehová Es para siempre aleluya amén.
+    D         Bm
+Alabad a Jehová, 
+          G                       A
+Naciones todas, Pueblos todos alabadle,
+        Em         A  
+Porque ha engrandecido 
+         G      A        D
+Sobre nosotros su misericordia;
+         D          Bm
+Y la verdad de Jehová 
+         A                D
+Es para siempre aleluya amén,
+         D          Bm
+Y la verdad de Jehová 
+         G          A     D
+Es para siempre aleluya amén
 ```
 
 ---
@@ -178,13 +186,15 @@ Porque hay, gozo hay gozo en Jesús.
 ### ✓ Allá en el cielo (G)=>(D)
 ```text
             D
-Allá en el cielo, allá en el cielo, allá en el cielo,
-                                              A
-No habrá más llanto Ni más tristeza Ni más dolor
-            Em                              A
-Y cuando estemos los redimidos allá en el cielo
-      G    A     D
-Alabaremos al Señor.
+Allá en el cielo, allá en el cielo, 
+                                 D
+allá en el cielo, No habrá más llanto 
+                          A
+Ni más tristeza Ni más dolor
+            Em
+Y cuando estemos los redimidos 
+            A           G    A     D
+allá en el cielo, alabaremos al Señor.
 ```
 
 ---

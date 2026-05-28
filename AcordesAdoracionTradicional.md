@@ -1,4 +1,4 @@
-### Dios está aquí
+### ✓ Dios está aquí
 ```text
   D     A    Bm     G
 Dios está aquí tan cierto 
@@ -14,7 +14,7 @@ tan cierto como yo te hablo
 y me puedes oír.
 ```
 
-### Santo, Santo
+### ✓ Santo, Santo
 ```text
  D      A      Bm   D7>
 Santo, santo, santo
@@ -30,19 +30,19 @@ Santo eres tú
 ```text
   D               A
 Gracias Cristo, Gracias Cristo
-  G            A          D    D7
+  G               A          D=D7>
 Gracias Cristo, Gracias Cristo
       G              A
 Levantemos nuestras manos
      F#m          Bm 
 en señal de gratitud
-          G    A  G       D
+          G    A         G=D
 Gracias Cristo, Gracias Cristo
 ```
 
 ### Venimos ante ti Señor
 ```text
-      D               
+                 D               
 // Venimos ante ti Señor
                   Bm
 con corazones sinceros

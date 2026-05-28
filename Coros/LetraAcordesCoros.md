@@ -1,5 +1,5 @@
-= Yo tengo un amigo que me ama (F)=>(D)
-
+### ✓ Yo tengo un amigo que me ama (F)=>(D)
+```text
 Estrofa:
     D                   Bm7
 Yo tengo un amigo que me ama
@@ -19,11 +19,12 @@ Que me ama, si, con tierno amor
 Que me ama, que me ama,
     G*    A*    D
 Su nombre es Jesús.
+```
 
------------------------------------------
+---
 
-= Una mirada de fe (D)
-
+### ✓ Una mirada de fe (D)
+```text
 Estrofa:
          D               D   
 //Una mirada de fe, una mirada de fe,
@@ -39,11 +40,12 @@ El te perdonara
 Porque una mirada de fe
             G       A          D
 Es la que puede salvar al pecador
+```
 
------------------------------------------
+---
 
-= Solo Dios hace al hombre feliz (C)=>(D)
-
+### ✓ Solo Dios hace al hombre feliz (C)=>(D)
+```text
          D                     A
 ///Solo Dios hace al hombre feliz
       A                     D
@@ -52,11 +54,12 @@ Solo Dios hace al hombre feliz
 La vida es nada todo se acaba
       A            G        D
 Solo Dios hace al hombre feliz///
+```
 
------------------------------------------
+---
 
-= Alabaré (G)=>(D)
-
+### ✓ Alabaré (G)=>(D)
+```text
 Coro:
         D        D
 //Alabaré, alabaré,
@@ -72,11 +75,12 @@ G        A     G       A
 Unos cantaban, otros oraban
    G        A          D
 Y todos alababan al Señor.
+```
 
------------------------------------------
+---
 
-= Si alguien te pregunta ¿cómo estás? (G)=>(D)
-
+### ✓ Si alguien te pregunta ¿cómo estás? (G)=>(D)
+```text
 Estrofa:
      D                             D
 //Si alguien te pregunta, ¿cómo estás?,
@@ -88,11 +92,12 @@ Coro:
 //Bendecido, bendecido,
       A                          D
 bendecido porque Cristo vive en mí//
+```
 
------------------------------------------
+---
 
-= Esta obra no va a parar (G)=>(D)
-
+### ✓ Esta obra no va a parar (G)=>(D)
+```text
 Estrofa:
      D               A
 Esta obra no va a parar (no va a parar)
@@ -108,40 +113,70 @@ Coro:
 //El fuego cae cae, los mares salen salen
           A                  D
 Y los creyentes alaban al Señor.//
+```
 
------------------------------------------
+---
 
-= No es con espada (G)=>(D)
-
+### ✓ No es con espada (G)=>(D)
+```text
 Estrofa:
                D
 //No es con espada, ni con ejércitos 
-            A           D
+            A       G   D
 mas con su Santo Espíritu//
 
 Coro:
-          G            D            A            D
-Y esta iglesia se moverá, y esta iglesia se moverá
-          G            D             A           D
-Y esta iglesia se moverá mas con su Santo Espíritu
+          G            D
+Y esta iglesia se moverá, 
+          A            D
+y esta iglesia se moverá,
+          G            D
+Y esta iglesia se moverá,
+            A       G   D
+mas con su Santo Espíritu
+```
 
------------------------------------------
+---
 
-= Alabad a Jehová (G)=>(D)
-
-    D                                              A
+### ✓ Alabad a Jehová (G)=>(D)
+```text
+    D         Bm           G                       A
 Alabad a Jehová, Naciones todas, Pueblos todos alabadle,
         Em         A            G      A        D
 Porque ha engrandecido Sobre nosotros su misericordia;
-                    D                           G
+         D          Bm         A                D
 Y la verdad de Jehová Es para siempre aleluya amén,
-                    D          A                D
+         D          Bm         G          A     D
 Y la verdad de Jehová Es para siempre aleluya amén.
+```
 
------------------------------------------
+---
 
-= Allá en el cielo (G)=>(D)
+### ✓ Hay vida en Jesús (E)=>(D)
+```text
+     D                   A
+Hay vida, hay vida en Jesús
+     A                   D
+Hay vida, hay vida en Jesús
+     D       D7        G
+Yo quiero morar en la patria celestial,
+            A                  D
+Porque hay vida hay vida en Jesús.
 
+     D                   A
+Hay gozo, hay gozo en Jesús
+     A                   D
+Hay gozo, hay gozo en Jesús
+     D       D7        G
+Yo quiero morar en la patria celestial,
+             A                  D
+Porque hay, gozo hay gozo en Jesús.
+```
+
+---
+
+### ✓ Allá en el cielo (G)=>(D)
+```text
             D
 Allá en el cielo, allá en el cielo, allá en el cielo,
                                               A
@@ -150,41 +185,43 @@ No habrá más llanto Ni más tristeza Ni más dolor
 Y cuando estemos los redimidos allá en el cielo
       G    A     D
 Alabaremos al Señor.
+```
 
------------------------------------------
+---
 
-= Cristo rompe las cadenas (G)=>(D)
-
+### ✓ Cristo rompe las cadenas (G)=>(D)
+```text
 Coro:
-        D           G
+        D           Bm
 Cristo rompe las cadenas
         A           D
 Cristo rompe las cadenas
-        D           G
+        D           Bm
 Cristo rompe las cadenas
-      A          D
+      G     A    D
 Y me da la libertad
 
 Estrofa:
-            D                       G
+            G                       D
 ¿Cómo es posible que yo viva sin Jesús
             A                     D
 Si el fundamento de mi vida eres tú
-          D                        G
+          G                        D
 Tú me libraste del pecado y de la muerte
             A                       D
 ¿Cómo es posible que yo viva sin Jesús?.
+```
 
------------------------------------------
+---
 
 = Libre, tú me hiciste libre (A)=>(D)
 
- D                                         G      A       D
+ D                    G                    A              D
 Libre, tú me hiciste libre, tú me hiciste libre, libre Señor
  D                  G                A              D
 Rotas fueron las cadenas que aprisionaban a mi corazón.
 
------------------------------------------
+---
 
 = Alguien está aquí y yo sé que es Cristo (D)
 
@@ -208,7 +245,7 @@ Yo siento en mi ser que ángeles del cielo
   Gm          D          A          D
 acampan a mi lado y me ayudan a vencer
 
------------------------------------------
+---
 
 = Viva la fe (G)=>(D)
 
@@ -228,7 +265,7 @@ Coro:
            A                  D
 Que viva Cristo, que viva el rey//
 
------------------------------------------
+---
 
 = No hay Dios tan grande como tú (G)=>(D)
 
@@ -244,7 +281,7 @@ Coro:
       A             D
 Como las que haces tú//
 
------------------------------------------
+---
 
 = Este es el Cristo que yo predico (E)=>(D)
 
@@ -263,7 +300,7 @@ Coro:
               A                    D
 Y yo le alabare diciendo gloria a Dios//
 
------------------------------------------
+---
 
 = Oye Jehová de mi alma éste cantar (D)
 
@@ -287,7 +324,7 @@ Mi vida peregrina muy pronto pasara
                  D          A          D
 Y alegre con los angeles mi alma cantara
 
------------------------------------------
+---
 
 Cuando allá se pase lista (D)
 
@@ -311,7 +348,7 @@ cuando allá se pase lista;
       D           A           D
 a mi nombre yo feliz responderé
 
------------------------------------------
+---
 
 = Trigo soy (G)=>(D)
 Estrofa:
@@ -336,7 +373,7 @@ y el poder de Jesucristo,
                  D
 a su granero yo voy.
 
------------------------------------------
+---
 
 = Mi corazón contento está (D)
 
@@ -347,7 +384,7 @@ Mi corazón contento está
             A             D
 Porque el Señor ya me salvo
 
------------------------------------------
+---
 
 = Cuán gloriosa será la mañana (D)
 
@@ -381,7 +418,7 @@ Porque entonces Jesús el rey del cielo
       A                   D
 Para siempre será consolador
 
------------------------------------------
+---
 
 = Donde está el espíritu de Dios (A)=>(D)
 
@@ -394,7 +431,7 @@ Libertad, libertad, libertad, libertad,
          G                 D       G              A    D
 Donde está el Espíritu de Dios, Allí siempre hay libertad.
 
------------------------------------------
+---
 
 = Yo siento paz y gozo en mi corazón (A)=>(D)
 
@@ -407,7 +444,7 @@ Porque Jesucristo ya me libertó//
       Bm        Em      A       D
 del reino de tinieblas me libertó//
 
------------------------------------------
+---
 
 En la cruz (F)=>(D)
 
@@ -427,7 +464,7 @@ Fue allí por fe do vi a Jesús,
     Em       A            D
 Y siempre feliz con el seré.
 
------------------------------------------
+---
 
 Hoy soy feliz, muy feliz (C)=>(D)
 
@@ -451,4 +488,12 @@ He pasado de muerte a eterna vida,
        G        A             D
 A una vida sin fin de gozo y paz
 
------------------------------------------
+---
+
+Como Jeremías Pag 205
+
+---
+
+Llegaronse los tiempos Pag 25
+
+---
